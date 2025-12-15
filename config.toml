@@ -8,14 +8,11 @@ publishDir            = "public"				# 站点静态文件保存目录
 
 
 [params]
-    # 网站描述，SEO 用的，写一段介绍自己的话
-    description = "这里写你的个人介绍，比如：某某的个人导航站，收集好用的工具。"
-    keywords = "导航, 个人主页, 你的名字"
+
+
     
-    # 侧边栏底部的版权信息
-    footer_content = "© 2025 独断万古胡天帝"
-
-
+    author        = "shenweiyan"
+    description   = "Webstack-Hugo 网址导航 | Hugo 主题 BY Bio IT 爱好者"
     upload        = "https://www.yuque.com/forms/share/1a1fee15-f7a9-4ee6-9dd4-b0ba9fef1871"      # 左侧导航栏的"网站提交"
     about         = "https://github.com/shenweiyan/Knowledge-Garden/discussions/10"	          # 左侧导航栏的"关于导航"页面(./about)
     repository    = "https://github.com/shenweiyan/WebStack-Hugo"  
